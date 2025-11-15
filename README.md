@@ -5,10 +5,22 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/573206775293" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:miguel.zuluaga@ucp.edu.co">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="www.linkedin.com/in/miguelzuluaga7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+
 </div>
 
 ###
@@ -27,9 +39,15 @@
 
 ###
 
-<p align="left">📫 How to reach me miguel.zuluaga@ucp.edu.co<br><br>⚡ Fun fact I Love Videogames</p>
+<p align="left">
+📫 How to reach me: 
+<a href="mailto:miguel.zuluaga@ucp.edu.co">miguel.zuluaga@ucp.edu.co</a>
+<br><br>
+⚡ Fun fact: I Love Videogames 🎮
+</p>
 
 ###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
